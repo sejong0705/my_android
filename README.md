@@ -13,3 +13,6 @@
 ```
 ## 실행
 - 애뮬레이터를 따로 설치하지 않고 웹페이지로 실행시킬 수 있습니다.
+  
+<img src="https://github.com/user-attachments/assets/e88fe078-f131-4539-a433-61b5caffb50b" alt="image" width="400" height="400">
+
